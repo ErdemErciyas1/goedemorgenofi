@@ -1,0 +1,68 @@
+div.morgen{
+	background-image: url("morning.png");
+	width: 100%;
+	height: 700px;
+	margin-top:-20px;
+	font-style: italic;
+	font-size: 40px;
+	color: white;
+	position: absolute;
+	margin-left: -9px;
+}
+
+div.middag{
+	background-image: url("foto1.png");
+	width: 100%;
+	height: 700px;
+	margin-top:-20px;
+	font-style: italic;
+	font-size: 40px;
+	color: white;
+	position: absolute;
+	margin-left: -9px;
+}
+
+div.avond{
+	background-image: url("evening.png");
+	width: 100%;
+	height: 700px;
+	text-align: center;
+	margin-top:-20px;
+	font-style: italic;
+	font-size: 40px;
+	color: white;
+	position: absolute;
+	margin-left: -9px;
+
+}
+
+
+div.nacht{
+	background-image: url("night.png");
+	width: 100%;
+	height: 700px;
+	margin-top:-20px;
+	font-style: italic;
+	font-size: 40px;
+	color: white;
+	position: absolute;
+	margin-left: -9px;
+}
+div.morgentekst{
+	margin-top: 250px;
+	margin-left: 500px;
+}
+
+div.middagtekst{
+	margin-top: 250px;
+	margin-left: 500px;
+}
+
+div.avondtekst{
+	margin-top: 250px;
+}
+
+div.nachttekst{
+	margin-top: 250px;
+}
+
